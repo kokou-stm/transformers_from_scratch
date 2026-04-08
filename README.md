@@ -1,6 +1,6 @@
 # Transformer from Scratch with PyTorch
 
-> Implémentation complète de l'architecture Transformer (Encoder) depuis zéro en utilisant uniquement **PyTorch**, inspirée du papier fondateur [*"Attention Is All You Need"*](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017).
+> Implémentation complète de l'architecture Transformer from scratch en utilisant uniquement **PyTorch**, inspirée du papier fondateur [*"Attention Is All You Need"*](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017).
 
 ![Architecture Transformer](image.png)
 
