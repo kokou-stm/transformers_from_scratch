@@ -326,10 +326,7 @@ code-transformers/
 
 ## Licence
 
-Ce projet est à vocation éducative. Libre d'utilisation et de modification.
+MIT. 
 
 ---
 
-<p align="center">
-  <i>Fait avec PyTorch</i>
-</p>
