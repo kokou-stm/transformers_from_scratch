@@ -207,7 +207,7 @@ Modèle de langage complet utilisant l'Encoder Transformer avec une **tête de p
 
 ```bash
 # Cloner le dépôt
-git clone <repo-url>
+git clone https://github.com/kokou-stm/transformers_from_scratch.git
 cd code-transformers
 
 # Installer les dépendances
